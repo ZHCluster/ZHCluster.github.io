@@ -25,7 +25,7 @@
 body {
   color: rgba(255,255,255,.75);
   // background-color: $cyan;
-  background-image: url(../../heic1317a.jpg), linear-gradient(to bottom, rgb(255, 255, 255) 50% , rgb(0, 0, 0) 90%);
+  background-image: url(/pic/heic1317a.jpg), linear-gradient(to bottom, rgb(255, 255, 255) 50% , rgb(0, 0, 0) 90%);
   background-blend-mode: darken;
   background-size: contain;
   background-position: right bottom;
@@ -325,7 +325,7 @@ footer {
   display: flex;
   flex-flow: row;
   align-items: stretch;
-  background: url(../../SYSU2pt.png);
+  background: url(/pic/SYSU2pt.png);
   background-size: contain;
   background-position: left bottom;
   background-repeat: repeat-x;
