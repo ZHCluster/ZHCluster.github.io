@@ -9,7 +9,7 @@ highlighter:      rouge
 # Setup
 title:            Pearl of Wisdom
 tagline:          ' Pearl of Wisdom : Galaxy Cluster in Zhuhai'
-description:      'Exploring the galaxy clusters'
+description:      'Exploring physics of galaxy clusters in Zhuhai'
 url:              https://zhcluster.github.io
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
