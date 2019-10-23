@@ -7,8 +7,8 @@ name: ZHCluster
 highlighter:      rouge
 
 # Setup
-title:            Pearl of Wisdom
-tagline:          ' Pearl of Wisdom : Galaxy Cluster in Zhuhai'
+title:            Pearls of Wisdom
+tagline:          ' Pearls of Wisdom : Galaxy Cluster in Zhuhai'
 description:      'Exploring physics of galaxy clusters in Zhuhai'
 url:              https://zhcluster.github.io
 # baseurl:          '/hydeout'
